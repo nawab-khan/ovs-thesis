@@ -1,6 +1,44 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Environments
+venv/
+.env/
+conda-env/
+*.env
+
+# Model checkpoints
+checkpoints/
 *.pth
 *.pt
-checkpoints/
-.ipynb_checkpoints/
+*.ckpt
+*.bin
+
+# Outputs
+outputs/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/

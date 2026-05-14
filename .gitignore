@@ -4,6 +4,9 @@ __pycache__/
 *.pyo
 *.pyd
 
+#Big Snake
+anaconda_projects/
+
 # Jupyter
 .ipynb_checkpoints/
 .virtual_documents/

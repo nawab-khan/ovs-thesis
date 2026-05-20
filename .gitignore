@@ -47,3 +47,5 @@ tmp/
 temp/
 
 datasets/
+
+coco_dataset/
